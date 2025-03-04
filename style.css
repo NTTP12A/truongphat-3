@@ -2,3 +2,11 @@ html {
   height: 100%;
   width: 100%;
 }
+
+<style>
+h2 {color: firebrick; font-family: verdana;}
+h3 {color: indianred;}
+label {font-size: 20px;}
+input {background-color: yellow;}
+textarea {background-color: ivory;}
+</style>
